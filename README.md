@@ -60,4 +60,5 @@ Through this project, I strengthened my skills in Power BI dashboard development
 - Dashboard screenshots
 - Project report
 
+## Dashboard Preview
 <img width="1331" height="721" alt="image" src="https://github.com/user-attachments/assets/74fb384b-7de8-475b-a8b7-b5868af8d529" />
